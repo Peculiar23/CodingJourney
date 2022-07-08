@@ -1,0 +1,65 @@
+<!doctypehtml>
+
+<html>
+<head>
+<title>HobbiesList</title>
+<style type="text/css">
+	{background-color:black;
+	font-size:150% 
+margin: 50px;}
+.images:hover {
+	text-decoration: underline;
+}
+</style>
+<script type="text/javascript">
+	alert("Welcome!");
+// This is a one-line comment.
+
+/* Multi line comments need 
+closing tags
+*/
+document.getElementById("Poetry-section").innerHTML = "Poetry";
+</script>
+</head>
+
+<body>
+	<div id="Physical-section">
+	<h1> <b>Martial Arts</b> </h1>
+<p>Started <strong>Kickboxing</strong> <br>
+<img src= "https://talksport.com/wp-content/uploads/sites/5/2022/02/Screenshot-2022-02-10-at-10.36.44.png?strip=all&w=475&quality=100"> </p> </div>
+
+	<h1> <b>Instrument.</b> </h1>
+	<div id="Instrument-section">
+<p>Started <strong>Guitar</strong> </p> </div>
+
+    <h1> <b>Perfume</b> </h1>
+    <div id="Perfume-section">
+<p>Made one accord called <strong>CrownshyAccord</strong> <br> </p>
+<img src="https://i.pinimg.com/750x/05/2c/3d/052c3d9d55ec91450ee812b9bfd4cc53.jpg">
+<img src="https://i.pinimg.com/750x/a5/99/c0/a599c0f4ef07d0d8937bd153253fb6cd.jpg">
+<img src="https://i.pinimg.com/750x/d0/1a/3c/d01a3cd61539c21c0c5d85516aeaf2b1.jpg">
+<img src="https://i.pinimg.com/750x/02/f4/e0/02f4e0260b31030821538d6d7a4aad2b.jpg">
+</div>
+
+    <h1> <b>Poetry</b> </h1>
+    <div id="Poetry-section">
+ <a href="https://www.instagram.com/calabash_rose/"> <strong>My Juvenilia</strong>></a> 
+
+    <h1> <b>Reading</b> </h1>
+    <div id="Reading-Section"></div>
+
+
+    <h1>Dressing</h1>
+    <div id="Fashion-section" class="images">
+<p> Creating <b>Street Academia</b>  <br> A merger of Streetwear and Dark Academia<br></p>
+ <img src="https://i.pinimg.com/236x/7e/e6/d7/7ee6d77845685bddf6da19b81b71f876.jpg">
+<img src="https://i.pinimg.com/236x/3b/14/8c/3b148c0f93060a66bbae2fc8b4bf567d.jpg">
+<img src="https://i.pinimg.com/236x/b1/7d/09/b17d092b299b0725181bfdb7789592a3.jpg">
+<img src="https://i.pinimg.com/236x/9d/7d/92/9d7d9257506f5e4f7ced538d788503d9.jpg">
+<img src="https://i.pinimg.com/236x/c2/b1/d2/c2b1d27e4e8b16c8e73d72fa2f830b11.jpg">
+<img src="https://i.pinimg.com/236x/35/f7/cf/35f7cf2901c3d5b31afb59400484e45b.jpg">
+<img src="https://i.pinimg.com/236x/6a/1c/43/6a1c434e5fb2875e90c100d155cb76cb.jpg">
+<img src="https://i.pinimg.com/236x/04/3f/c8/043fc88fa2ce8436c0802516d7833739.jpg">
+</div>
+
+</html>
