@@ -1,0 +1,8 @@
+<style type="text/css">
+ .AboveLogo { font-family: "Hoefler Text", "Baskerville Old Face", Garamond, "Times New Roman", serif; font-size: 40px; font-style: normal; font-variant: normal; font-weight: 900; line-height: 26.4px; }	
+ .Rightalignedlang {text-align: right;}
+ ul {
+ 	display: block;
+ 	list-style: none;
+ }
+</style>
